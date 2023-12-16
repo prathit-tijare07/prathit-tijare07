@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prathit-tijare07
 - 👀 I’m interested in Data Analytics & Business Intelligence
-- 🌱 I’m currently doing my Internship at ExcelR.
+- 🌱 I’m currently doing my Internship at AI Variant.
 - 💞️ I’m looking to collaborate on  on data analysis projects
 - 📫 How to reach me ...www.linkedin.com/in/prathit-tijare
 
