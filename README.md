@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @prathit-tijare07
+- 👋 Hi, I’m Prathit Tijare
 - 👀 I’m interested in Data Analytics & Business Intelligence
 - 🌱 I’m currently doing my Internship at AI Variant.
-- 💞️ I’m looking to collaborate on  on data analysis projects
+- 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me ...www.linkedin.com/in/prathit-tijare
 
 
